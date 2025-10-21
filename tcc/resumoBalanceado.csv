@@ -1,0 +1,6 @@
+Nome,Antes Classe 0,Antes Classe 1,Depois Classe 0,Depois Classe 1,Diferença % Antes,Diferença % Depois
+Dataset 100k,89612,10388,89612,89754,79.22,0.08
+Dataset 200k,183182,16818,183182,183148,83.18,0.01
+Dataset 300k,280740,19260,280740,281086,87.16,0.06
+Dataset 400k,378206,21794,378206,378209,89.1,0.0
+Dataset 500k,482585,17415,482585,482375,93.03,0.02
